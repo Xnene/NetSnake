@@ -1,0 +1,12 @@
+canvas {
+    background-color: #135fd1;
+    display: block;
+    margin: auto;
+    border: 5px solid black; /* Přidává ráměček */
+}      
+#restartButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+}  
